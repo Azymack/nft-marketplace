@@ -8,10 +8,6 @@ Welcome to NFT Marketplace, the ultimate mobile gateway to the world of NFTs! Ou
  - **User-Friendly Interface:** Our app boasts a sleek and user-friendly interface designed to enhance your NFT experience.
  - **Expo-Powered Performance:** Leveraging the power of React Native and Expo, our app delivers a smooth and responsive user experience. Enjoy the benefits of cross-platform development without compromising on performance or functionality.
 
-## App Video Review
-
-<a href='https://clipchamp.com/watch/CoHmSmYuKvZ/embed' target='_blank'>Click here and view the video</a>
-
 ## App Image Review
 
 <img src='assets/images/scene.png' height='330' alt='Scene' />
